@@ -3,11 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-    <title>Verifica i Backlinks Verso il Tuo Sito - SEO Tool Gratuito</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <title>Analisi Backlinks - SEO Tool Gratuito: Backlink Checker</title>
     <meta name="description" content="Analizza e verifica i backlinks verso il tuo sito web in modo semplice e veloce grazie a questo tool." />
-<link rel="canonical" href="https://www.lorenzcrood.com/verificabacklinks/" />
-<meta name="keywords" content="seo tool gratis, seo tool gratuito, verifica backlink, tool backlinks, verifica backlinks, verifica backlink">
+<link rel="canonical" href="https://www.lorenzcrood.com/analisibacklinks/" />
+<meta name="keywords" content="analizza backlinks, analisi backlinks, backlink checker, seo tool gratis, seo tool gratuito, tool backlinks, verifica backlinks, verifica backlink">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@croodlorenz">
@@ -17,9 +18,20 @@
 	<meta name="twitter:image" content="https://www.lorenzcrood.com/wp-content/uploads/Analizza-i-Tuoi-Backlinks.png">
 	<meta property="og:image" content="https://www.lorenzcrood.com/wp-content/uploads/Analizza-i-Tuoi-Backlinks.png" />
 	<meta property="og:description" content="Analizza e verifica i backlinks verso il tuo sito web in modo semplice." />
-	<meta property="og:url"content="http://www.lorenzcrood.com/verificabacklinks/" />
-	<meta property="og:title" content="Get the SEO Secrets Our 8-Figure Clients Fund the Research For" />
+	<meta property="og:url"content="http://www.lorenzcrood.com/analisibacklinks/" />
+	<meta property="og:title" content="Analizza e verifica i backlinks verso il tuo sito web in modo semplice." />
 	<link rel="icon" type="image/png" sizes="16x16" href="https://cdn-ba05.kxcdn.com/wp-content/uploads/cropped-favicon.png">
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-71219869-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-71219869-2');
+</script>
+
 
   </head>
 
@@ -32,11 +44,11 @@
         
 <p>Per favore sostienimi condividendo questo tool.</p>
 <div>
-<a href="https://www.addtoany.com/share#url=http%3A%2F%2Fwww.lorenzcrood.com%2Fverificabacklinks%2F&amp;title=Verifica%20i%20Backlinks%20Verso%20il%20Tuo%20Sito%20-%20SEO%20Tool%20Gratuito" target="_blank"><img src="https://static.addtoany.com/buttons/a2a.svg" width="32" height="32" style="background-color:teal"></a>
-<a href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.lorenzcrood.com%2Fverificabacklinks%2F&amp;linkname=Verifica%20i%20Backlinks%20Verso%20il%20Tuo%20Sito%20-%20SEO%20Tool%20Gratuito" target="_blank"><img src="https://static.addtoany.com/buttons/facebook.svg" width="32" height="32" style="background-color:teal"></a>
-<a href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.lorenzcrood.com%2Fverificabacklinks%2F&amp;linkname=Verifica%20i%20Backlinks%20Verso%20il%20Tuo%20Sito%20-%20SEO%20Tool%20Gratuito" target="_blank"><img src="https://static.addtoany.com/buttons/twitter.svg" width="32" height="32" style="background-color:teal"></a>
-<a href="https://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fwww.lorenzcrood.com%2Fverificabacklinks%2F&amp;linkname=Verifica%20i%20Backlinks%20Verso%20il%20Tuo%20Sito%20-%20SEO%20Tool%20Gratuito" target="_blank"><img src="https://static.addtoany.com/buttons/google_plus.svg" width="32" height="32" style="background-color:teal"></a>
-<a href="https://www.addtoany.com/add_to/linkedin?linkurl=http%3A%2F%2Fwww.lorenzcrood.com%2Fverificabacklinks%2F&amp;linkname=Verifica%20i%20Backlinks%20Verso%20il%20Tuo%20Sito%20-%20SEO%20Tool%20Gratuito" target="_blank"><img src="https://static.addtoany.com/buttons/linkedin.svg" width="32" height="32" style="background-color:teal"></a>
+<a href="https://www.addtoany.com/share#url=http%3A%2F%2Fwww.lorenzcrood.com%2Fanalisibacklinks%2F&amp;title=Verifica%20i%20Backlinks%20Verso%20il%20Tuo%20Sito%20-%20SEO%20Tool%20Gratuito" target="_blank"><img src="https://static.addtoany.com/buttons/a2a.svg" width="32" height="32" style="background-color:teal"></a>
+<a href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.lorenzcrood.com%2Fanalisibacklinks%2F&amp;linkname=Verifica%20i%20Backlinks%20Verso%20il%20Tuo%20Sito%20-%20SEO%20Tool%20Gratuito" target="_blank"><img src="https://static.addtoany.com/buttons/facebook.svg" width="32" height="32" style="background-color:teal"></a>
+<a href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.lorenzcrood.com%2Fanalisibacklinks%2F&amp;linkname=Verifica%20i%20Backlinks%20Verso%20il%20Tuo%20Sito%20-%20SEO%20Tool%20Gratuito" target="_blank"><img src="https://static.addtoany.com/buttons/twitter.svg" width="32" height="32" style="background-color:teal"></a>
+<a href="https://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fwww.lorenzcrood.com%2Fanalisibacklinks%2F&amp;linkname=Verifica%20i%20Backlinks%20Verso%20il%20Tuo%20Sito%20-%20SEO%20Tool%20Gratuito" target="_blank"><img src="https://static.addtoany.com/buttons/google_plus.svg" width="32" height="32" style="background-color:teal"></a>
+<a href="https://www.addtoany.com/add_to/linkedin?linkurl=http%3A%2F%2Fwww.lorenzcrood.com%2Fanalisibacklinks%2F&amp;linkname=Verifica%20i%20Backlinks%20Verso%20il%20Tuo%20Sito%20-%20SEO%20Tool%20Gratuito" target="_blank"><img src="https://static.addtoany.com/buttons/linkedin.svg" width="32" height="32" style="background-color:teal"></a>
 </div>
 </div>        
         
