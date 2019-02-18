@@ -63,8 +63,8 @@ if (count($remainingTargets) > 0) {
 	<meta name="twitter:creator" content="@croodlorenz">
 	<meta name="twitter:title" content="SEO Tool Gratuito - Analizza e verifica i backlinks">
 	<meta name="twitter:description" content="Analizza e verifica i backlinks verso il tuo sito web in modo semplice.">
-	<meta name="twitter:image" content="https://www.lorenzcrood.com/wp-content/uploads/Analizza-i-Tuoi-Backlinks.png">
-	<meta property="og:image" content="https://www.lorenzcrood.com/wp-content/uploads/Analizza-i-Tuoi-Backlinks.png" />
+	<meta name="twitter:image" content="https://www.lorenzcrood.com/wp-content/uploads/tool-per-analisi-backlinks.png">
+	<meta property="og:image" content="https://www.lorenzcrood.com/wp-content/uploads/tool-per-analisi-backlinks.png" />
 	<meta property="og:description" content="Analizza e verifica i backlinks verso il tuo sito web in modo semplice." />
 	<meta property="og:url"content="http://www.lorenzcrood.com/analisibacklinks/" />
 	<meta property="og:title" content="Analizza e verifica i backlinks verso il tuo sito web in modo semplice." />
@@ -84,24 +84,27 @@ if (count($remainingTargets) > 0) {
   </head>
 
   <body>
-    <div class="jumbotron">
+    <div style="background:#4e81d8" class="jumbotron">
       <div class="container">
-        <h1 class="display-3">Verifica i Backlinks Verso il Tuo Sito - SEO Tool Gratuito &#x1F577;</h1>
-        <p>Analisi in corso, <?= count($job->targets) - count($remainingTargets) ?> di <?= count($job->targets) ?> pages completate...</p>
+      
+            <div style="text-align:center">
 
+        <h1 class="display-3" style="color:white"><strong>Analisi Backlinks e Verifica: SEO Tool Gratis (Backlinks Checker) &#x1F50D;</strong></h1>
+        <br>
+	<img alt="Backlinks Checker gratis" src="https://www.lorenzcrood.com/wp-content/uploads/gif.gif">
+
+	</div>
+      	<br>
+        <p style="color:white">Progresso: <?= count($job->targets) - count($remainingTargets) ?> di <?= count($job->targets) ?> pagine completate.</p>
         <div class="progress">
           <div class="progress-bar progress-bar-striped progress-bar-animated" style="width: <?= 100 * (count($job->targets) - count($remainingTargets)) / count($job->targets) ?>%"></div>
         </div>
       <br>
       
-  <p>Per favore sostienimi condividendo questo tool.</p>    
-      <div>
-<a href="https://www.addtoany.com/share#url=http%3A%2F%2Fwww.lorenzcrood.com%2Fanalisibacklinks%2F&amp;title=Verifica%20i%20Backlinks%20Verso%20il%20Tuo%20Sito%20-%20SEO%20Tool%20Gratuito" target="_blank"><img src="https://static.addtoany.com/buttons/a2a.svg" width="32" height="32" style="background-color:teal"></a>
-<a href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.lorenzcrood.com%2Fanalisibacklinks%2F&amp;linkname=Verifica%20i%20Backlinks%20Verso%20il%20Tuo%20Sito%20-%20SEO%20Tool%20Gratuito" target="_blank"><img src="https://static.addtoany.com/buttons/facebook.svg" width="32" height="32" style="background-color:teal"></a>
-<a href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.lorenzcrood.com%2Fanalisibacklinks%2F&amp;linkname=Verifica%20i%20Backlinks%20Verso%20il%20Tuo%20Sito%20-%20SEO%20Tool%20Gratuito" target="_blank"><img src="https://static.addtoany.com/buttons/twitter.svg" width="32" height="32" style="background-color:teal"></a>
-<a href="https://www.addtoany.com/add_to/google_plus?linkurl=http%3A%2F%2Fwww.lorenzcrood.com%2Fanalisibacklinks%2F&amp;linkname=Verifica%20i%20Backlinks%20Verso%20il%20Tuo%20Sito%20-%20SEO%20Tool%20Gratuito" target="_blank"><img src="https://static.addtoany.com/buttons/google_plus.svg" width="32" height="32" style="background-color:teal"></a>
-<a href="https://www.addtoany.com/add_to/linkedin?linkurl=http%3A%2F%2Fwww.lorenzcrood.com%2Fanalisibacklinks%2F&amp;linkname=Verifica%20i%20Backlinks%20Verso%20il%20Tuo%20Sito%20-%20SEO%20Tool%20Gratuito" target="_blank"><img src="https://static.addtoany.com/buttons/linkedin.svg" width="32" height="32" style="background-color:teal"></a>
-</div>
+  <h3 style="color:white"><a style="color:white" href="https://goo.gl/giHUWc" title="Esegui un altra verifica">> Esegui un'altra analisi gratuita!</a></h3>    
+
+
+
 </div>        
 
       
