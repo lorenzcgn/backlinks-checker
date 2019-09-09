@@ -77,7 +77,7 @@ if (count($remainingTargets) > 0) {
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-71219869-2');
+  gtag('config', 'UA-7121XXXX-2');
 </script>
 
 
